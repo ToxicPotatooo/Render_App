@@ -1,0 +1,1 @@
+C:\Users\lyubs\OneDrive\Рабочий стол\OOP inclass folder\RendererAppLyub\RendererAppLyub\RendererAppLyub.csproj;x64
