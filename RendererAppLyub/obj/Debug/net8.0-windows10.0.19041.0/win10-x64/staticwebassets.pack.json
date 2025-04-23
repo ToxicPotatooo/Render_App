@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\RendererAppLyub.styles.css",
+      "PackagePath": "staticwebassets\\RendererAppLyub.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.RendererAppLyub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.RendererAppLyub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.RendererAppLyub.props",
+      "PackagePath": "build\\RendererAppLyub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.RendererAppLyub.props",
+      "PackagePath": "buildMultiTargeting\\RendererAppLyub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.RendererAppLyub.props",
+      "PackagePath": "buildTransitive\\RendererAppLyub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
