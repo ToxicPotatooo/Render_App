@@ -44205,24 +44205,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lyubs\\.nuget\\packages\\": {},
+    "C:\\Users\\Manses\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\RendererAppLyub.csproj",
+      "projectUniqueName": "C:\\Render_App\\RendererAppLyub\\RendererAppLyub.csproj",
       "projectName": "RendererAppLyub",
-      "projectPath": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\RendererAppLyub.csproj",
-      "packagesPath": "C:\\Users\\lyubs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lyubs\\OneDrive\\Рабочий стол\\OOP inclass folder\\RendererAppLyub\\RendererAppLyub\\obj\\",
+      "projectPath": "C:\\Render_App\\RendererAppLyub\\RendererAppLyub.csproj",
+      "packagesPath": "C:\\Users\\Manses\\.nuget\\packages\\",
+      "outputPath": "C:\\Render_App\\RendererAppLyub\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lyubs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Manses\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

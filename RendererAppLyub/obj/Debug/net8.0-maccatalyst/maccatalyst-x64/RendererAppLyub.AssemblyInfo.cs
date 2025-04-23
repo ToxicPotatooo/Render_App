@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RendererAppLyub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+db8fdcef51268abf73064dc4202ba8d313c49e2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RendererAppLyub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RendererAppLyub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

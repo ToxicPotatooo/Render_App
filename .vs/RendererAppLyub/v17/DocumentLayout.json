@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Render_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|c:\\render_app\\rendererapplyub\\viewmodels\\shapeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|solutionrelative:rendererapplyub\\viewmodels\\shapeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|c:\\render_app\\rendererapplyub\\services\\renderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|solutionrelative:rendererapplyub\\services\\renderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|c:\\render_app\\rendererapplyub\\services\\geometryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|solutionrelative:rendererapplyub\\services\\geometryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|c:\\render_app\\rendererapplyub\\components\\exportpanel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|solutionrelative:rendererapplyub\\components\\exportpanel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|c:\\render_app\\rendererapplyub\\components\\shapecontrols.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|solutionrelative:rendererapplyub\\components\\shapecontrols.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|c:\\render_app\\rendererapplyub\\components\\rendererview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10BC3DA-685C-4A34-87BD-DEEAE3FCECEF}|RendererAppLyub\\RendererAppLyub.csproj|solutionrelative:rendererapplyub\\components\\rendererview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeViewModel.cs",
+              "DocumentMoniker": "C:\\Render_App\\RendererAppLyub\\ViewModels\\ShapeViewModel.cs",
+              "RelativeDocumentMoniker": "RendererAppLyub\\ViewModels\\ShapeViewModel.cs",
+              "ToolTip": "C:\\Render_App\\RendererAppLyub\\ViewModels\\ShapeViewModel.cs",
+              "RelativeToolTip": "RendererAppLyub\\ViewModels\\ShapeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:46:32.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RenderService.cs",
+              "DocumentMoniker": "C:\\Render_App\\RendererAppLyub\\Services\\RenderService.cs",
+              "RelativeDocumentMoniker": "RendererAppLyub\\Services\\RenderService.cs",
+              "ToolTip": "C:\\Render_App\\RendererAppLyub\\Services\\RenderService.cs",
+              "RelativeToolTip": "RendererAppLyub\\Services\\RenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:46:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeometryService.cs",
+              "DocumentMoniker": "C:\\Render_App\\RendererAppLyub\\Services\\GeometryService.cs",
+              "RelativeDocumentMoniker": "RendererAppLyub\\Services\\GeometryService.cs",
+              "ToolTip": "C:\\Render_App\\RendererAppLyub\\Services\\GeometryService.cs",
+              "RelativeToolTip": "RendererAppLyub\\Services\\GeometryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:45:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportPanel.razor",
+              "DocumentMoniker": "C:\\Render_App\\RendererAppLyub\\Components\\ExportPanel.razor",
+              "RelativeDocumentMoniker": "RendererAppLyub\\Components\\ExportPanel.razor",
+              "ToolTip": "C:\\Render_App\\RendererAppLyub\\Components\\ExportPanel.razor",
+              "RelativeToolTip": "RendererAppLyub\\Components\\ExportPanel.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T22:45:15.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShapeControls.razor",
+              "DocumentMoniker": "C:\\Render_App\\RendererAppLyub\\Components\\ShapeControls.razor",
+              "RelativeDocumentMoniker": "RendererAppLyub\\Components\\ShapeControls.razor",
+              "ToolTip": "C:\\Render_App\\RendererAppLyub\\Components\\ShapeControls.razor",
+              "RelativeToolTip": "RendererAppLyub\\Components\\ShapeControls.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T22:45:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RendererView.razor",
+              "DocumentMoniker": "C:\\Render_App\\RendererAppLyub\\Components\\RendererView.razor",
+              "RelativeDocumentMoniker": "RendererAppLyub\\Components\\RendererView.razor",
+              "ToolTip": "C:\\Render_App\\RendererAppLyub\\Components\\RendererView.razor",
+              "RelativeToolTip": "RendererAppLyub\\Components\\RendererView.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T22:44:50.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
